@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pavneet_singh.roomdemo.NoteListActivity">
+
+
+    <item
+        android:id="@+id/action_menu_done"
+        android:tooltipText="Done"
+        android:orderInCategory="100"
+        android:title="DONE"
+        app:showAsAction="ifRoom" />
+</menu>
